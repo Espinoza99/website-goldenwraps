@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/website-goldenwraps/static/css/main.de8e492d.css",
+    "main.js": "/website-goldenwraps/static/js/main.8570d16a.js",
+    "static/js/787.d11ab55e.chunk.js": "/website-goldenwraps/static/js/787.d11ab55e.chunk.js",
+    "index.html": "/website-goldenwraps/index.html",
+    "main.de8e492d.css.map": "/website-goldenwraps/static/css/main.de8e492d.css.map",
+    "main.8570d16a.js.map": "/website-goldenwraps/static/js/main.8570d16a.js.map",
+    "787.d11ab55e.chunk.js.map": "/website-goldenwraps/static/js/787.d11ab55e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de8e492d.css",
+    "static/js/main.8570d16a.js"
+  ]
+}
